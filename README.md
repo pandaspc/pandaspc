@@ -11,16 +11,17 @@
 
 
 ##### sobre mim
-🔢 = 23y    | 👹 = retardo mental  
-🎮 = gaymer | 💍= com uma batata
-🐼 = pet    | 😍 = batata frita
-🤖 = bots discord | 
+
+
+<p class="has-line-data" data-line-start="0" data-line-end="4">
+🔢 = 23y | 👹 = retardo mental<br>
+🎮 = gaymer  | 💍 = com uma batata frita<br>
+🐼 = pet | 😍 = batata frita<br>
+🤖 = bots discord</p>
+
+
 
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=pandaspc&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=pandaspc&show_icons=true"
   media="(prefers-color-scheme: maroongold), (prefers-color-scheme: no-preference)"
