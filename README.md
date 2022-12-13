@@ -13,11 +13,9 @@
 ##### sobre mim
 🔢 = 23y    | 👹 = retardo mental  
 🎮 = gaymer | 💍= com uma batata
-🐼 = pet    | 😍 = batata fritacd  
-🤖 = bots discord |
-<!-- <div>
-<img src="https://github.com/batatafritinha/image/blob/main/panda.gif?raw=true" width="70px" height="80px" style="border-radius:20px">
-</div> -->
+🐼 = pet    | 😍 = batata frita
+🤖 = bots discord | 
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=pandaspc&show_icons=true&theme=dark"
