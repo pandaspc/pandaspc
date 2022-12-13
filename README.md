@@ -52,8 +52,4 @@
 
 <hr>
 
-
-
-
-
-
+![Snake animation](https://github.com/pandaspc/pandaspc/blob/output/github-contribution-grid-snake.svg)
